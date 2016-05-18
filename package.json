@@ -1,0 +1,22 @@
+{
+  "name": "hidden-ravine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarrayudu/hidden-ravine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarrayudu/hidden-ravine/issues"
+  },
+  "homepage": "https://github.com/sagarrayudu/hidden-ravine#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^1.14.1"
+  }
+}
