@@ -2,6 +2,3 @@ language: node_js
  - "4.4.4"
 script:
   - npm install
-  - webpack-dev-server
-services: 
-  - webpack-dev-server
