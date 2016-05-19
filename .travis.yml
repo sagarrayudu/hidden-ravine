@@ -2,3 +2,7 @@ language: node_js
  - "4.4.4"
 script:
   - npm install
+deploy:
+  provider: heroku
+  api_key: ...
+  app: hidden-ravine-63673
