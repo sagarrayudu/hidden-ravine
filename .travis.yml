@@ -4,5 +4,5 @@ script:
   - npm install
 deploy:
   provider: heroku
-  api_key: ...
+  api_key: 8dd5877f-b9b3-42da-b4a3-ab6874529347
   app: hidden-ravine-63673
